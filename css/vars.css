@@ -1,0 +1,17 @@
+@font-face {
+	font-family: opensans-tn;
+	src: url(../fonts/OpenSans-Regular.woff2);
+	font-weight: 400;
+}
+@font-face {
+	font-family: opensans-tn;
+	src: url(../fonts/opensans-bold.woff2);
+	font-weight: 600;
+}
+:root {
+	--white-color: #fff;
+	--text-color: #000;
+	--accent-color: #841844;
+	--grey-color: #6C6E7B;
+	--light-grey: #ECF2F5;
+}
