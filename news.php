@@ -8,7 +8,6 @@
 		}
 ?>
 
-<?php require 'parts/header.php'; ?>
 <?php $new = get_new_by_id($_GET['id']); ?>
 
 	<main>
